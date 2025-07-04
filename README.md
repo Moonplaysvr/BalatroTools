@@ -1,2 +1,1 @@
-# BalatroTools
-A community-driven mod library for Balatro, used with BalatroTool. Browse, download, and share mods with other players. Submit a pull request to add your own mod to the list. All mods require a legal copy of the game. No executables or pirated content allowed.
+BalatroTool is an open-source mod manager for the game Balatro. Easily create, save, and switch mod profiles, import/export mod packs including your modded .exe and app data for easy sharing. Includes dark/light mode, game launcher, and auto-update features. Share mods responsibly!
